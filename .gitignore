@@ -7,3 +7,4 @@ chroma_db
 .history
 .vscode
 *.env*
+**/*.env*
