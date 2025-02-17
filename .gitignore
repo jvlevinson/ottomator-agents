@@ -9,3 +9,4 @@ chroma_db
 *.env*
 **/*.env*
 */.env*
+crawl4AI-agent/.env.example
